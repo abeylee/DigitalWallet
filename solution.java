@@ -99,7 +99,3 @@ class DigitalWalletTransaction {
         }
     }
 }
-
-
-
-public class Solution {
